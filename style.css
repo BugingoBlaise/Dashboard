@@ -180,11 +180,11 @@ form p a {
   font-size: 1.2rem;
 }
 .logout {
-  position: relative;
+  position: sticky;
   bottom: 0;
   left: 0;
   width: 100%;
-  margin-top: 150px !important;
+  margin-top: 260px !important;
 }
 .menu {
   height: 90%;
